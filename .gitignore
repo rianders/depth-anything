@@ -43,3 +43,4 @@ pyproject.toml
 # UV
 .uv/
 requirements.lock
+.DS_Store
